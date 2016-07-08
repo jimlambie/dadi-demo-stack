@@ -1,0 +1,71 @@
+{
+  "cluster": false,
+  "app": {
+    "name": "Demo Stack - API"
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 3000
+  },
+  "database": {
+    "hosts": [
+      {
+        "host": "127.0.0.1",
+        "port": 27017
+      }
+    ],
+    "username": "",
+    "password": "",
+    "database": "test",
+    "ssl": false,
+    "replicaSet": "",
+    "enableCollectionDatabases": false
+  },
+  "auth": {
+    "tokenUrl": "/token",
+    "tokenTtl": 1800,
+    "clientCollection": "clientStore",
+    "tokenCollection": "tokenStore",
+    "database": {
+      "hosts": [
+        {
+          "host": "127.0.0.1",
+          "port": 27017
+        }
+      ],
+      "username": "",
+      "password": "",
+      "database": "test"
+    }
+  },
+  "caching": {
+    "ttl": 300,
+    "directory": {
+      "enabled": false,
+      "path": "./cache/api",
+      "extension": "json"
+    },
+    "redis": {
+      "enabled": false,
+      "host": "127.0.0.1",
+      "port": 6379
+    }
+  },
+  "paths": {
+    "collections": "workspace/collections",
+    "endpoints": "workspace/endpoints",
+    "hooks": "workspace/hooks"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "info",
+    "path": "./log",
+    "filename": "dadi-api",
+    "extension": "log"
+  },
+  "feedback": false,
+  "cors": false,
+  "query": {
+    "useVersionFilter": true
+  }
+}

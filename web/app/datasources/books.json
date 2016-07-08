@@ -1,0 +1,21 @@
+{
+  "datasource": {
+    "key": "books",
+    "name": "books datasource",
+    "source": {
+      "endpoint": "1.0/library/book"
+		},
+    "caching": {
+      "enabled": false,
+      "ttl": 1200
+    },
+    "paginate": true,
+    "count": 10,
+    "sort": { "_id": -1 },
+    "search": {},
+    "fields": {},
+    "filter": {},
+    "requestParams": [
+    ]
+  }
+}

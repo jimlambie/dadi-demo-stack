@@ -1,0 +1,20 @@
+{
+  "page": {
+    "name": "Books page",
+    "description": "A collection of books.",
+    "language": "en"
+  },
+  "settings": {
+    "cache": true
+  },
+  "route": {
+    "path": "/books"
+  },
+  "template": "books.dust",
+  "datasources": [
+    "books"
+  ],
+  "events": [
+    
+  ]
+}

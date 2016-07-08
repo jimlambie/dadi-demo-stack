@@ -1,0 +1,33 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+
+	<title>Demo Stack</title>
+
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+	<link rel="icon" type="image/png" href="{global.assetUrl}/png/0/0/0/0/0/0/0/0/0/aspectfit/0/0/0/0/0/0/public/img/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="{global.assetUrl}/png/0/0/0/0/0/0/0/0/0/aspectfit/0/0/0/0/0/0/public/img/favicon-16x16.png" sizes="16x16">
+
+	<link rel="stylesheet" type="text/css" href="{global.assetUrl}/css/0/public/css/main.min.css">
+	<script src="{global.assetUrl}/js/0/public/js/head.min.js"></script>
+
+	{+head}{/head}
+</head>
+
+<body class="layout">
+	{>"partials/header"/}
+
+	{+content}
+		This is the base content.
+	{/content}
+
+	{>"partials/footer"/}
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+{>layout/}
+
+{<content}
+	<main class="main">
+		<div class="page">
+
+			<header class="review__header">
+				<div class="container no-pad">
+
+					<nav class="sections__list tabs tabs--groups cf no-pad epsilon">
+						<ul class="cf">
+							<li class="col w-4"><a href="#reviews" class="on" style="border-radius:4px 0 0 0">
+								<span class="ss-star ss-starplain" style="margin-top:-6px"></span>
+								<strong>Books</strong>
+							</a></li>
+						</ul>
+					</nav>
+				</div>
+			</header>
+
+		</div>
+	</main>
+{/content}

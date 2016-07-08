@@ -1,0 +1,18 @@
+{
+  "page": {
+    "name": "Index",
+    "description": "Index page.",
+    "language": "en"
+  },
+  "settings": {
+    "cache": true
+  },
+  "route": {
+    "path": "/"
+  },
+  "datasources": [
+    "books"
+  ],
+  "events": [
+  ]
+}

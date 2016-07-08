@@ -1,0 +1,130 @@
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"validator","msg":"Model validator logging started.","time":"2016-07-08T01:24:44.759Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"server","msg":"Server logging started.","time":"2016-07-08T01:24:45.185Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"msg":"Starting DADI API in single thread mode.","time":"2016-07-08T01:24:45.187Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"cache","msg":"Cache logging started.","time":"2016-07-08T01:24:45.247Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"server","msg":"Collection loaded: book","time":"2016-07-08T01:24:45.256Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"server","msg":"Collection loaded: person","time":"2016-07-08T01:24:45.258Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"module":"server","msg":"Endpoint loaded: test-endpoint","time":"2016-07-08T01:24:45.262Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"msg":"Process 82299 is listening for incoming requests","time":"2016-07-08T01:24:45.263Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82299,"level":30,"msg":"Log directory created at /Users/jameslambie/projects/code/dadi-stack/api/log","time":"2016-07-08T01:24:45.271Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"validator","msg":"Model validator logging started.","time":"2016-07-08T01:24:56.336Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"server","msg":"Server logging started.","time":"2016-07-08T01:24:56.712Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"msg":"Starting DADI API in single thread mode.","time":"2016-07-08T01:24:56.714Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"cache","msg":"Cache logging started.","time":"2016-07-08T01:24:56.763Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"server","msg":"Collection loaded: book","time":"2016-07-08T01:24:56.778Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"server","msg":"Collection loaded: person","time":"2016-07-08T01:24:56.780Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"server","msg":"Endpoint loaded: test-endpoint","time":"2016-07-08T01:24:56.784Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"msg":"Process 82337 is listening for incoming requests","time":"2016-07-08T01:24:56.785Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:25:19.551Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:25:19.551Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:25:19.551Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:13.180Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:13.180Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:13.180Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:27.471Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:27.471Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:27.471Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:42.472Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:42.472Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:27:42.472Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:01.819Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:01.819Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:01.819Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:15.274Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:15.274Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:28:15.274Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:28:31.991Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:28:31.991Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:28:31.991Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 8ms","time":"2016-07-08T01:28:31.996Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:30:01.666Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:30:01.666Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:30:01.666Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:30:04.599Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:30:04.599Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:30:04.599Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 6ms","time":"2016-07-08T01:30:04.603Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:31:59.804Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:31:59.804Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:31:59.804Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:01.934Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:01.934Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:01.934Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 1ms","time":"2016-07-08T01:32:01.934Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:32:33.915Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:32:33.915Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:32:33.915Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:36.195Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:36.195Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:36.195Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 1ms","time":"2016-07-08T01:32:36.195Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.685Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.685Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.685Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:50.685Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.961Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.961Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.961Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 4ms","time":"2016-07-08T01:32:50.961Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.964Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 5ms","time":"2016-07-08T01:32:50.964Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.964Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:50.964Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.752Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.752Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.752Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 4ms","time":"2016-07-08T01:32:51.755Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.782Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.782Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:51.782Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:51.782Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.197Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.197Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.197Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:54.198Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.385Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.385Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.385Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:54.385Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.386Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:54.387Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.386Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:54.386Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.098Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.098Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.098Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 1ms","time":"2016-07-08T01:32:55.099Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.127Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.127Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:32:55.127Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 2ms","time":"2016-07-08T01:32:55.127Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:33:05.187Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:33:05.187Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":50,"module":"api","msg":"{ [Error: Invalid Credentials] statusCode: 401 }","time":"2016-07-08T01:33:05.187Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82337,"level":30,"module":"router","msg":"POST /token 401 1ms","time":"2016-07-08T01:33:05.188Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"validator","msg":"Model validator logging started.","time":"2016-07-08T01:35:56.167Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"server","msg":"Server logging started.","time":"2016-07-08T01:35:56.559Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"msg":"Starting DADI API in single thread mode.","time":"2016-07-08T01:35:56.560Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"cache","msg":"Cache logging started.","time":"2016-07-08T01:35:56.606Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"server","msg":"Collection loaded: book","time":"2016-07-08T01:35:56.614Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"server","msg":"Collection loaded: person","time":"2016-07-08T01:35:56.615Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"server","msg":"Endpoint loaded: test-endpoint","time":"2016-07-08T01:35:56.619Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"msg":"Process 82545 is listening for incoming requests","time":"2016-07-08T01:35:56.620Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"router","msg":"POST /token 200 15ms","time":"2016-07-08T01:35:59.626Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82545,"level":30,"module":"router","msg":"GET /1.0/library/books?count=10&page=1&referer=http%3A%2F%2Flocalhost%3A3001%2F&filter=%7B%7D&fields=%7B%7D&sort=%7B%22_id%22:-1%7D 404 0ms","time":"2016-07-08T01:35:59.650Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"validator","msg":"Model validator logging started.","time":"2016-07-08T01:36:49.907Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"server","msg":"Server logging started.","time":"2016-07-08T01:36:50.139Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"msg":"Starting DADI API in single thread mode.","time":"2016-07-08T01:36:50.140Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"cache","msg":"Cache logging started.","time":"2016-07-08T01:36:50.179Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"server","msg":"Collection loaded: book","time":"2016-07-08T01:36:50.190Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"server","msg":"Collection loaded: person","time":"2016-07-08T01:36:50.191Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"server","msg":"Endpoint loaded: test-endpoint","time":"2016-07-08T01:36:50.194Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"msg":"Process 82561 is listening for incoming requests","time":"2016-07-08T01:36:50.196Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:36:54.343Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:36:54.343Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:36:54.343Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"router","msg":"GET /1.0/library/book?count=10&page=1&referer=http%3A%2F%2Flocalhost%3A3001%2F&filter=%7B%7D&fields=%7B%7D&sort=%7B%22_id%22:-1%7D 200 13ms","time":"2016-07-08T01:36:56.254Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:38:07.712Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:38:07.712Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":50,"module":"api","msg":"{ [Error: Unauthorized] statusCode: 401 }","time":"2016-07-08T01:38:07.712Z","v":0}
+{"name":"dadi-api","hostname":"Jamess-MacBook.Home","pid":82561,"level":30,"module":"router","msg":"GET /1.0/library/book?count=10&page=1&referer=http%3A%2F%2Flocalhost%3A3001%2F&filter=%7B%7D&fields=%7B%7D&sort=%7B%22_id%22:-1%7D 200 3ms","time":"2016-07-08T01:38:09.563Z","v":0}

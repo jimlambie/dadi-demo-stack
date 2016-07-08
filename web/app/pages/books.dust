@@ -1,0 +1,14 @@
+{>layout/}
+
+{<head}
+
+{/head}
+
+{<content}
+<main class="main">
+	<div class="page">
+		Books.
+	</div>
+</main>
+
+{/content}

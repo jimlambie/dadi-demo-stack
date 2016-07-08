@@ -1,0 +1,15 @@
+{
+    "page": {
+        "name": "404",
+        "description": "404 page.",
+        "language": "en"
+    },
+    "settings": {
+        "cache": true
+    },
+    "datasources": [
+    ],
+    "events": [
+    	"queryparams"
+    ]
+}
