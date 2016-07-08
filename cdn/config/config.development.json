@@ -18,15 +18,15 @@
 
   "images": {
     "directory": {
-      "enabled": false,
+      "enabled": true,
       "path": "./test/images"
     },
     "s3": {
-      "enabled": true,
-      "accessKey": "AKIAI45YB4R2EP4DWMFQ",
-      "secretKey": "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",
-      "bucketName": "bauer-radio",
-      "region": "eu-west-1"
+      "enabled": false,
+      "accessKey": "",
+      "secretKey": "",
+      "bucketName": "",
+      "region": ""
     },
     "remote": {
       "enabled": false,
